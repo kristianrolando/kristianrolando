@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title">
+<title id="title">There is always another level to build</title>
+<defs><linearGradient id="line"><stop stop-color="#bba1ff"/><stop offset="1" stop-color="#70f0c2"/></linearGradient></defs>
+<rect width="1200" height="110" rx="16" fill="#101624"/>
+<path d="M40 1H1160" stroke="url(#line)" stroke-width="2"/>
+<g transform="translate(40 38)" fill="#70f0c2"><rect x="0" y="12" width="8" height="8"/><rect x="12" y="6" width="8" height="20"/><rect x="24" y="0" width="8" height="32"/></g>
+<text x="96" y="62" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22" fill="#e7edf8">There's always another level to build.</text>
+<text x="966" y="62" font-family="monospace" font-size="14" letter-spacing="2" fill="#bba1ff">LET'S CONNECT ↗</text>
+</svg>

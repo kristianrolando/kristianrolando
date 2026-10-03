@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280" role="img" aria-labelledby="title desc">
+<title id="title">Incremental Game</title><desc id="desc">Custom genre-inspired illustrated project cover. 03 / INCREMENTAL PROGRESSION</desc>
+<rect x="1" y="1" width="398" height="278" rx="16" fill="#101624" stroke="#2c3147"/>
+<text x="24" y="34" font-family="monospace" font-size="11" letter-spacing="1" fill="#bba1ff">03 / INCREMENTAL PROGRESSION</text>
+
+<rect x="24" y="62" width="352" height="126" rx="10" fill="#1c172d" stroke="#bba1ff" stroke-opacity=".18"/>
+<path d="M68 164H333" stroke="#bba1ff" stroke-opacity=".2"/>
+<rect x="89" y="137" width="35" height="27" rx="3" fill="#bba1ff" opacity=".28"/><rect x="137" y="119" width="35" height="45" rx="3" fill="#bba1ff" opacity=".45"/><rect x="185" y="100" width="35" height="64" rx="3" fill="#bba1ff" opacity=".65"/><rect x="233" y="78" width="35" height="86" rx="3" fill="#bba1ff"/>
+<path d="M96 120L145 100L193 80" stroke="#70f0c2" stroke-width="2" fill="none"/><path d="M182 79L193 80L191 91" stroke="#70f0c2" stroke-width="2" fill="none"/>
+<circle cx="307" cy="110" r="20" fill="#70f0c2" opacity=".1"/><path d="M307 99V121M296 110H318" stroke="#70f0c2" stroke-width="3"/>
+
+<text x="24" y="231" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="-.6" fill="#eef2fc">Incremental Game</text>
+<text x="24" y="257" font-family="monospace" font-size="11" letter-spacing="1" fill="#8d9ab3">OPEN REPOSITORY</text><path d="M348 247H365M358 240L365 247L358 254" fill="none" stroke="#bba1ff" stroke-width="2"/>
+</svg>
