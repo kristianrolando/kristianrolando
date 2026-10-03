@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aldo — Game Developer</title>
+  <desc id="desc">Dark arcade-inspired banner with violet and mint accents, a game controller, and the words Build. Play. Share.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#201638"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#6ee7b7"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1070" cy="60" r="180" fill="#a78bfa" opacity=".06"/>
+  <circle cx="940" cy="320" r="140" fill="#6ee7b7" opacity=".05"/>
+  <rect x="64" y="64" width="32" height="5" rx="2.5" fill="#6ee7b7"/>
+  <text x="110" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#c4b5fd">BUILD. PLAY. SHARE.</text>
+  <text x="60" y="160" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#f8fafc">Hey, I'm Aldo.</text>
+  <text x="64" y="205" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#cbd5e1">Kristian Rolando Limantara</text>
+  <text x="64" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2" fill="#6ee7b7">GAME DEVELOPMENT / UNITY / C#</text>
+  <path d="M65 297H715" stroke="url(#accent)" stroke-width="2"/>
+  <g transform="translate(840 108)">
+    <path d="M52 10H178Q208 10 217 43L240 122Q250 159 225 162Q206 163 182 133L168 116H62L48 133Q24 163 5 162Q-20 159-10 122L13 43Q22 10 52 10Z" fill="#171f33" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M52 48V88M32 68H72" stroke="#c4b5fd" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="175" cy="51" r="9" fill="#6ee7b7"/>
+    <circle cx="195" cy="71" r="9" fill="#a78bfa"/>
+    <circle cx="155" cy="71" r="9" fill="#a78bfa"/>
+    <circle cx="175" cy="91" r="9" fill="#6ee7b7"/>
+    <rect x="99" y="73" width="15" height="5" rx="2.5" fill="#64748b"/>
+    <rect x="122" y="73" width="15" height="5" rx="2.5" fill="#64748b"/>
+  </g>
+  <g fill="#a78bfa" opacity=".65"><rect x="790" y="64" width="9" height="9"/><rect x="1130" y="277" width="12" height="12"/></g>
+  <g fill="#6ee7b7" opacity=".7"><rect x="1110" y="81" width="8" height="8"/><rect x="808" y="288" width="6" height="6"/></g>
+</svg>
