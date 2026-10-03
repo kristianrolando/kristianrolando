@@ -31,15 +31,15 @@ For me, game development brings together two things I love: **making something p
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/kristianrolando/PONG"><img src="assets/project-pong.svg" width="400" alt="PONG — classic arcade. Illustrated paddle-and-ball cover; open repository." /></a><br />
-      <a href="https://github.com/kristianrolando/PONG"><strong>Explore PONG →</strong></a>
+      <a href="https://github.com/kristianrolando/PONG"><strong>View code →</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/kristianrolando/Tower-Defense"><img src="assets/project-tower-defense.svg" width="400" alt="Tower Defense — strategy and defense. Illustrated tower cover; open repository." /></a><br />
-      <a href="https://github.com/kristianrolando/Tower-Defense"><strong>Explore Tower Defense →</strong></a>
+      <a href="https://github.com/kristianrolando/Tower-Defense"><strong>View code →</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/kristianrolando/Incremental-Game"><img src="assets/project-incremental.svg" width="400" alt="Incremental Game — incremental progression. Illustrated upgrade cover; open repository." /></a><br />
-      <a href="https://github.com/kristianrolando/Incremental-Game"><strong>Explore Incremental Game →</strong></a>
+      <a href="https://github.com/kristianrolando/Incremental-Game"><strong>View code →</strong></a>
     </td>
   </tr>
 </table>
