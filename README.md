@@ -1,66 +1,52 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Hey, I'm Aldo — Kristian Rolando Limantara. Game development, Unity, and C#. Build. Play. Share." width="100%" />
+</p>
 
-### <div align="center">Hi, I'm Kristian, AKA Aldo. Game developer enthusiast 🎮</div>  
-  
+<p align="center">
+  <strong>Game developer · Unity &amp; C# · Always happy to share what I learn</strong>
+</p>
 
-- 🔭 I’m currently working on Game Development field  
-  
+<p align="center">
+  <a href="https://linkedin.com/in/kristian-rolando-limantara"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://instagram.com/aldo_limantara"><img src="https://img.shields.io/badge/Instagram-aldo__limantara-A78BFA?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram: aldo_limantara" /></a>
+  <a href="https://github.com/kristianrolando?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" /></a>
+</p>
 
-- 🕹️ I’m very interested in game development  
-  
+## A little about me
 
-- ⚡ I like teaching people  
-  
+I'm **Kristian Rolando Limantara**, but you can call me **Aldo**. I work in game development and enjoy exploring how ideas become playable experiences.
 
-<br/>  
+- 🎮 **Build:** games and experiments with Unity and C#.
+- 🧩 **Explore:** different game genres, mechanics, and development tools.
+- 💬 **Share:** I enjoy teaching people and sharing what I learn along the way.
 
+## My toolkit
 
-## My Skill Set  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Firebase-FFC400?style=for-the-badge&amp;logo=firebase&amp;logoColor=181717" alt="Firebase" />
+</p>
 
-<br/>  
+## Explore my projects
 
+A few public repositories from my game development journey:
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/kristianrolando " target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kristian-rolando-limantara" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/aldo_limantara" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+| Project | Genre / theme | Repository |
+| :--- | :--- | :--- |
+| 🏓 **PONG** | Classic arcade | [View project →](https://github.com/kristianrolando/PONG) |
+| 🏰 **Tower Defense** | Strategy and defense | [View project →](https://github.com/kristianrolando/Tower-Defense) |
+| 📈 **Incremental Game** | Incremental progression | [View project →](https://github.com/kristianrolando/Incremental-Game) |
 
-<br/>  
+**[Browse all public repositories →](https://github.com/kristianrolando?tab=repositories&amp;type=public)**
 
+## Let's connect
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kristianrolando&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+Interested in game development or exchanging ideas? Find me on [LinkedIn](https://linkedin.com/in/kristian-rolando-limantara) or [Instagram](https://instagram.com/aldo_limantara).
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianrolando&hide_border=true&layout=compact" align="center" /></div>  
+---
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kristianrolando&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-
+<p align="center"><sub>Build something. Play it. Learn from it. Repeat.</sub></p>
